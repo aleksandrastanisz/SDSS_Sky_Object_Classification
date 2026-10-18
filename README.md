@@ -20,7 +20,7 @@ Full feature set ($u, g, r, i, z$ + redshift) achieves **98% overall accuracy**:
 Removing the redshift feature causes a massive drop in classifier discriminative power: star-galaxy confusion jumps to 669 errors, QSO-galaxy to 440, and galaxy-star to 369. Feature importance analysis shows redshift accounts for over 64% of node impurity reduction across the forest.
 
 ## Full Report
-A complete technical report in Polish is available as a PDF in this repository (`SDSS-17_Redshift.pdf`).
+A complete technical report in Polish is available in this repository (`SDSS-17_Redshift.docx`).
 
 ## Setup & Run
 ```bash
